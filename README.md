@@ -1,4 +1,4 @@
 # SimonGame
 Built using Jquery.
 Play the game at: https://colinguner.github.io/SimonGameJs/.
-Lower your volume :)
+ you might want to lower your volume :)
